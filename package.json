@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "type": "module",
   "private": true,
-  "homepage": "https://priyasingh2203.github.io/LogoIpsum/",
+  "homepage": "https://priyasingh2203.github.io/WebLogoIpsum/",
   "dependencies": {
     "lucide-react": "^0.554.0",
     "react": "^19.2.0",
