@@ -18,7 +18,7 @@ export default function HireIndia() {
         </div>
 
         <div>
-          <img src="/src/assets/hire-india-illus.png" alt="hire india" className="w-full max-w-md mx-auto" />
+          <img src="public/hire-india-illus.png" alt="hire india" className="w-full max-w-md mx-auto" />
         </div>
       </div>
     </section>

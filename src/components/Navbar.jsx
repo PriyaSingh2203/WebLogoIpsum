@@ -9,7 +9,7 @@ export default function Navbar() {
         <div className="flex items-center gap-3">
           {/* LOGO IMAGE */}
           <img 
-            src="/src/assets/logo.png"   // ← replace with your actual logo file path
+            src="public/logo.png"   // ← replace with your actual logo file path
             alt="Logo"
             className="w-10 h-10 object-contain"
           />

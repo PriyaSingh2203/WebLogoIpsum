@@ -19,7 +19,7 @@ export default function WhyHire() {
           {/* LEFT IMAGE */}
           <div className="flex justify-center">
             <img
-              src="/src/assets/illustration-dev-right.png"
+              src="public/illustration-dev-right.png"
               className="w-full max-w-md"
               alt="Developer Illustration"
             />
@@ -85,7 +85,7 @@ export default function WhyHire() {
           {/* RIGHT IMAGE */}
           <div className="flex justify-center">
             <img
-              src="/src/assets/illustration-dev-left.png"
+              src="public/illustration-dev-left.png"
               className="w-full max-w-md"
               alt="Right Developer Illustration"
             />

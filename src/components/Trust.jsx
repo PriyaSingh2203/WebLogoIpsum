@@ -5,7 +5,7 @@ export default function Trust() {
     <section className="py-16 px-6 lg:px-12 bg-white">
       <div className="max-w-7xl mx-auto grid md:grid-cols-2 gap-8 items-center">
         <div>
-          <img src="/src/assets/trust-illus.png" alt="trusted" className="w-full max-w-sm mx-auto" />
+          <img src="public/trust-illus.png" alt="trusted" className="w-full max-w-sm mx-auto" />
         </div>
 
         <div>
